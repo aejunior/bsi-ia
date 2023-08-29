@@ -29,16 +29,3 @@ Este dataset mostra o preço dos imóveis de acordo com as suas características
 Métrica: MAE
 --------------------------------------
 Sugestão: usar `sqft_living` e `price`
-
-
-2
-Intercepto (A):  [-41999.18603994]
-Inclinação (B):  [[279.55477932]]
-
-3
-Intercepto (A):  [-41947.45401876]
-Inclinação (B):  [[279.51011741]]
-
-4
-Intercepto (A):  [-29687.20490389]
-Inclinação (B):  [[273.3220643]]
