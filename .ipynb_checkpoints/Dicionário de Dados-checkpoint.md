@@ -1,10 +1,10 @@
-DATASET kc_house_data:
+# DATASET kc_house_data
 
 Este dataset mostra o preço dos imóveis de acordo com as suas características.
 
-
 Colunas:
-
+| | |
+| | |
 date: Data da transação de venda do imóvel.
 price: Preço de venda do imóvel.
 bedrooms: Número de quartos no imóvel.
